@@ -63,7 +63,8 @@ Currently this implementation assumes a fixed camera setup. `python main.py` run
 #### Keypoints selection
 ![select_keypoints_animation](https://github.com/user-attachments/assets/3c15131f-9943-477b-adeb-782cc32e8946)
 #### Inference results
-![inference](https://github.com/user-attachments/assets/5a7432ff-35a6-4db4-acc2-cdb760b4bd8d)
+![inference](
+https://github.com/user-attachments/assets/aaa06d84-2457-4052-8432-d628e245e06e)
 
 
 
