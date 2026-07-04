@@ -63,5 +63,6 @@ Currently this implementation assumes a fixed camera setup. `python main.py` run
 #### Keypoints selection
 ![select_keypoints_animation](https://github.com/user-attachments/assets/3c15131f-9943-477b-adeb-782cc32e8946)
 #### Inference results
-![inference](<img width="800" height="450" alt="demo45-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/9c6e3436-03d8-46d3-a8a2-cc20292dd6d9" />
+![inference](
+https://github.com/user-attachments/assets/2ac7f8cd-ef40-4abd-930b-23aa3b932a71
 )
